@@ -1,3 +1,4 @@
+![](preview.png)
 # Audio giving an interaction more satisfaction
 
 A collection of interactions with audio.
