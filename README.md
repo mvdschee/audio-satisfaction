@@ -1,12 +1,11 @@
-![](preview.png)
 # Audio giving an interaction more satisfaction
 
 A collection of interactions with audio.
+![](preview.png)
 
+[Medium post](https://medium.com/@maxvanderschee/the-muted-web-and-how-to-fix-it-5bdb65362e36)
 
-[Article on Medium](https://medium.com/@maxvanderschee/the-muted-web-and-how-to-fix-it-5bdb65362e36)
-
-[Demo](http://dev-attic.com/01.audio/satisfaction.html)
+[Demo](https://demo.dev-attic.com/audio-satisfaction/satisfaction.html)
 
 ## Credits
 
@@ -17,6 +16,6 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-Follow Me: [Medium](https://medium.com/@maxvanderschee), [GitHub](https://github.com/mvdschee)
+Follow Me: [Medium](https://medium.com/@maxvanderschee), [GitHub](https://github.com/mvdschee), [Twitter](https://twitter.com/maxvanderschee)
 
 [© Max van der Schee 2018](https://maxvanderschee.nl)
